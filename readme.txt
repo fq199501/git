@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 I have a origin now.
 Create a new branch is dev.
-Creating a &&.
+Createing a new branch is feature1 and master.
