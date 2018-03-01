@@ -5,3 +5,4 @@ I have a origin now.
 Create a new branch is dev.
 Createing a new branch is feature1 and master.
 添加一个新的dev分支
+修改了一个bug101.
